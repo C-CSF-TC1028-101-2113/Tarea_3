@@ -1,6 +1,8 @@
 # Pass Fail Grade
 Decisiones - Calificacion aprobatoria o reprobatoria
 
+**NOTA:** Este ejercicio requiere el uso de funciones.
+
 Modifica el siguiente codigo:
 
 ```python
