@@ -1,10 +1,8 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # Cuadrante en el plano cartesiano
 Decisiones - Determina en qué cuadrante del plano cartesiano se encuentra
 un punto dado.
 
-Modifica el programa que se encuentra en la carpeta `src` que se llama
-`exercise.py` y que contiene el siguiente código:
+Modifica el siguiente código:
 
 ```python
 def quadrant(x, y):
@@ -57,6 +55,3 @@ The point is in quadrant: Y axis
 Únicamente necesitas modificar la función **quadrant**.
 Elimina la palabra __pass__ y escribe el código necesario.
 Asegurarte de que la función regrese el valor correcto.
-
-Una vez que termines tu actividad y la hayas probado con `pytest --tb=short`,
-subela a tu repositorio en GitHub, con el proceso de commit + push.
