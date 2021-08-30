@@ -2,6 +2,8 @@
 Decisiones - Determina en qué cuadrante del plano cartesiano se encuentra
 un punto dado.
 
+**NOTA:** Este ejercicio requiere el uso de funciones.
+
 Modifica el siguiente código:
 
 ```python
