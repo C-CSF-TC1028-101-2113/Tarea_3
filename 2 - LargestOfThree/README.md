@@ -1,9 +1,7 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # Número más grande
 Decisiones - Elegir entre 3 números el más grande
 
-Modifica el programa que se encuentra en la carpeta `src` que se llama
-`exercise.py` y que contiene el siguiente código:
+Modifica el siguiente código:
 
 ```python
 def largest_of_three(a, b, c):
@@ -21,6 +19,9 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+
+La línea `#escribe tu código abajo de esta línea` es un comentario,
+el programa la va a ignorar al ejecutarse.
 
 El programa va a preguntar por tres números, y al final debe imprimir sólo
 el número que es mayor que los demás.
@@ -44,6 +45,3 @@ Enter third number: 1
 Únicamente necesitas modificar la función **largest_of_three**.
 Elimina la palabra __pass__ y escribe el código necesario.
 Asegurarte de que la función regrese el valor correcto.
-
-Una vez que termines tu actividad y la hayas probado con `pytest --tb=short`,
-subela a tu repositorio en GitHub, con el proceso de commit + push.
