@@ -33,5 +33,5 @@ Enter grade: 90
 Pass
 ```
 
-Únicamente necesitas modificar la función **check_grade** y asegurarte de
-que regrese la palabra correcta.
+Elimina la palabra __pass__ y escribe el código necesario.
+Asegurarte de que la función regrese la palabra correcta.
