@@ -24,7 +24,7 @@ El plano cartesiano se divide en 4 cuadrantes, que van en sentido contrario
 a las manecillas del reloj. El cuadrante depende del signo de las coordenadas
 del punto en X y Y.
 
-![Cuadrantes](../../images/quadrants.png)
+![Cuadrantes](https://github.com/C-CSF-TC1028-101-2113/Tarea_3/blob/main/images/quadrants.png)
 
 El programa va a preguntar por dos números, las coordenadas en X y en Y,
 y luego imprimirá en qué cuadrante se encuentra el punto dado.
